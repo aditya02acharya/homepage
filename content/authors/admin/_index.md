@@ -30,6 +30,9 @@ education:
   - course: MSc in Human-Computer Interaction
     institution: University of Birmingham
     year: 2014
+  - course: BTech in Computer Science
+    institution: KIIT University
+    year: 2011   
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
