@@ -20,7 +20,7 @@ subtitle = ""
   name = "Python"
   
 [[feature]]
-  icon = "r-studio"
+  icon = "r-project"
   icon_pack = "fab"
   name = "R" 
 
