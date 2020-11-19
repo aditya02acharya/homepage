@@ -15,34 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R" 
-
-[[feature]]
-  icon = "database"
+  icon = "chart-line"
   icon_pack = "fas"
-  name = "SQL"
+  name = "Statistical Analysis"
+  description = "Competency in collecting and analyzing data to identify patterns and trends."
   
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Machine Learning" 
+  name = "Modelling"
+  description = "Proficiency in design, development and deploment of SOTA algorithms in Machine Learning."
   
 [[feature]]
-  icon = "chart-line"
+  icon = "calendar-alt"
   icon_pack = "fas"
-  name = "Statistics" 
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  name = "Process Oriented" 
+  description = "Experience working in SCRUM & Agile SDLC. "
 
 # Uncomment to use emoji icons.
 # [[feature]]
