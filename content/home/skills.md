@@ -18,10 +18,20 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
- 
+  
+[[feature]]
+  icon = "r-studio"
+  icon_pack = "fas"
+  name = "R" 
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fab"
+  name = "SQL"
+  
 [[feature]]
   icon = "brain"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Machine Learning" 
   
 [[feature]]
