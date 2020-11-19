@@ -24,13 +24,13 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Modelling"
-  description = "Proficiency in design, development and deploment of SOTA algorithms in Machine Learning."
+  description = "Proficiency in applying analytical and numerical methods to model a broad range of problems from operations research to recommender systems."
   
 [[feature]]
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "Process Oriented" 
-  description = "Experience working in SCRUM & Agile SDLC. "
+  description = "Experience working in SCRUM & Agile SDLC. Ability to collaborate and work in a team environment on multi-disciplinary projects."
 
 # Uncomment to use emoji icons.
 # [[feature]]
