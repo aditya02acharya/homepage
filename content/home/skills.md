@@ -21,12 +21,12 @@ subtitle = ""
   
 [[feature]]
   icon = "r-studio"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "R" 
 
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "SQL"
   
 [[feature]]
