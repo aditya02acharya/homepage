@@ -21,6 +21,7 @@ interests:
 - Intelligent systems
 - Healthcare
 - Human-Computer Interaction
+- Photography
 
 education:
   courses:
