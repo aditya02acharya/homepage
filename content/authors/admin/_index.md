@@ -19,6 +19,7 @@ bio: My research interests include reinforcement learning, decision making and c
 interests:
 - Reinforcement Learning
 - Intelligent systems
+- Healthcare
 - Human-Computer Interaction
 
 education:
@@ -47,6 +48,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/aditya02acharya
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/acharyaaditya/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +71,7 @@ highlight_name: false
 # - Visitors
 ---
 
-Hi! I am a postdoctoral researcher, working in the field of Human–Computer Interaction (HCI), in the User Interfaces Group (led by Prof. Antti Oulasvirta) at Aalto University.
+Hi! I am a [FCAI](https://fcai.fi/) postdoctoral researcher, working in the field of Human–Computer Interaction (HCI), in the Media Labs Group (led by Prof. Perttu Hämäläinen) and [User Interfaces Group](https://userinterfaces.aalto.fi/) (led by Prof. Antti Oulasvirta) at Aalto University.
 
 I completed my PhD Degree in July 2019 from University of Birmingham, UK. My primary PhD advisor was Prof. Andrew Howse. The title of my dissertation is "Approximate optimal control model for visual search tasks".
 
