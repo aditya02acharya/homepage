@@ -22,8 +22,8 @@ slides:
 # Links (optional).
 url_code: "https://github.com/aditya02acharya/Recurrent-Model-For-Distractor-Ratio"
 url_pdf: "http://www-personal.umich.edu/~rickl/pubs/acharya-et-al-cogsci17.pdf"
-url_slides: ""
-url_video: ""
+url_slides: media/dr_task_slides.pdf
+url_video: media/DR_TASK.mp4
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
@@ -33,6 +33,6 @@ url_video: ""
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: dr_task.gif
+  caption: cogsci2017
   focal_point: Smart
 ---
