@@ -1,9 +1,9 @@
 ---
 # Project title.
-title = "Human Visual Search as a Deep Reinforcement Learning Solution to a POMDP"
+title: Human Visual Search as a Deep Reinforcement Learning Solution to a POMDP
 
 # Project summary to display on homepage.
-summary = "When people search for a target in a novel image they often make use of eye movements to bring the relatively high acuity fovea to bear on areas of interest. The strategies that control these eye movements for visual search have been of substantial scientific interest. In the current article we report a new computational model that shows how strategies for visual search are an emergent consequence of perceptual/motor constraints and approximately optimal strategies. The model solves a Partially Observable Markov Decision Process (POMDP) using deep Q-learning to acquire strategies that optimise the tradeoff between speed and accuracy. Results are reported for the Distractor-ratio task."
+summary: When people search for a target in a novel image they often make use of eye movements to bring the relatively high acuity fovea to bear on areas of interest. The strategies that control these eye movements for visual search have been of substantial scientific interest. In the current article we report a new computational model that shows how strategies for visual search are an emergent consequence of perceptual/motor constraints and approximately optimal strategies. The model solves a Partially Observable Markov Decision Process (POMDP) using deep Q-learning to acquire strategies that optimise the tradeoff between speed and accuracy. Results are reported for the Distractor-ratio task.
 
 # Tags: can be used for filtering projects.
 # tags:
@@ -17,26 +17,22 @@ date: "2017-04-27T00:00:00Z"
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides:
 
 # Links (optional).
-url_pdf = "http://www-personal.umich.edu/~rickl/pubs/acharya-et-al-cogsci17.pdf"
-url_slides = ""
-url_video = ""
-url_code = "https://github.com/aditya02acharya/Recurrent-Model-For-Distractor-Ratio"
-
+url_code: "https://github.com/aditya02acharya/Recurrent-Model-For-Distractor-Ratio"
+url_pdf: "http://www-personal.umich.edu/~rickl/pubs/acharya-et-al-cogsci17.pdf"
+url_slides: ""
+url_video: ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #links = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = "dr_task.gif"
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+# Focal point (optional)
+# Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  caption: dr_task.gif
+  focal_point: Smart
 ---
