@@ -33,6 +33,6 @@ url_video: media/DR_TASK.mp4
 # Focal point (optional)
 # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  caption: cogsci2017
+  caption: cogsci2017.jpg
   focal_point: Smart
 ---
