@@ -3,7 +3,7 @@
 title: Human Visual Search as a Deep Reinforcement Learning Solution to a POMDP
 
 # Project summary to display on homepage.
-summary: When people search for a target in a novel image they often make use of eye movements to bring the relatively high acuity fovea to bear on areas of interest. The strategies that control these eye movements for visual search have been of substantial scientific interest. In the current article we report a new computational model that shows how strategies for visual search are an emergent consequence of perceptual/motor constraints and approximately optimal strategies. The model solves a Partially Observable Markov Decision Process (POMDP) using deep Q-learning to acquire strategies that optimise the tradeoff between speed and accuracy. Results are reported for the Distractor-ratio task.
+summary: The project objective is to design computational models to aid in gaze-based eye tracking technology as a pointing modality.
 
 # Tags: can be used for filtering projects.
 # tags:
