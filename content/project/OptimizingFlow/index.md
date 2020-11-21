@@ -1,5 +1,5 @@
 ---
-title: Optimising flow within mobility systems with AI
+title: Optimising flow within mobility systems with Artificial Intelligence
 summary: The objective of the project is to transition complex traffic management from static systems into dynamic, optimised systems that cities manage in real-time across many types of mobility. 
 tags:
 date:
