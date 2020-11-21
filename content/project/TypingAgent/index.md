@@ -1,5 +1,5 @@
 ---
-title: Artifical Typist: Touchscreen Typing As Optimal Supervisory Control
+title: Artifical Typist-Touchscreen Typing As Optimal Supervisory Control
 summary: This project presents a computational model of how people type on touch-screen keyboards. We explaore the role of visual attention being shared between the keyboard and the text area. 
 tags:
 - Deep Learning
