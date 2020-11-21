@@ -2,8 +2,7 @@
 title: Artifical Typist-Touchscreen Typing As Optimal Supervisory Control
 summary: This project presents a computational model of how people type on touch-screen keyboards. We explaore the role of visual attention being shared between the keyboard and the text area. 
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+date:
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,11 +12,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/aditya02acharya/TypingAgent"
 url_pdf: ""
 url_slides: ""
 url_video: "media/typist.mp4"
