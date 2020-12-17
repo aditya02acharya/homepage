@@ -1,10 +1,11 @@
 ---
-title: "Automation reliability and decision strategy: A sequential decision making model for automation interaction"
+title: "Human Visual Search as a Deep Reinforcement Learning Solution to a POMDP"
 authors:
-- Aditya Acharya 
+- Aditya Acharya
+- Xiuli Chen
+- Christopher W Myers
+- Richard L Lewis
 - Andrew Howes
-- Chris Baber
-- Tom Marshall
 date: "2018-10-01T00:00:00Z"
 doi: ""
 
@@ -18,8 +19,8 @@ publishDate: "2018-10-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Human Factors and Ergonomics Society*
-publication_short: In *HFES*
+publication: In *Cognitive Science Society*
+publication_short: In *CogSci*
 
 abstract:
 
@@ -33,14 +34,14 @@ featured: false
 links:
 - name:
   url:
-url_pdf: https://www.researchgate.net/profile/Chris_Baber/publication/327863097_Automation_Reliability_And_Decision_Strategy_A_Sequential_Decision_Making_Model_For_Automation_Interaction/links/5e8ef22492851c2f528d4af6/Automation-Reliability-And-Decision-Strategy-A-Sequential-Decision-Making-Model-For-Automation-Interaction.pdf
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
+url_pdf: https://cogsci.mindmodeling.org/2017/papers/0022/paper0022.pdf
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
