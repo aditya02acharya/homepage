@@ -31,8 +31,6 @@ tags:
 featured: false
 
 links:
-- name:
-  url:
 url_pdf: https://www.researchgate.net/profile/Chris_Baber/publication/327863097_Automation_Reliability_And_Decision_Strategy_A_Sequential_Decision_Making_Model_For_Automation_Interaction/links/5e8ef22492851c2f528d4af6/Automation-Reliability-And-Decision-Strategy-A-Sequential-Decision-Making-Model-For-Automation-Interaction.pdf
 url_code:
 url_dataset:

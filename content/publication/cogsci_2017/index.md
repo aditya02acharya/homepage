@@ -32,8 +32,6 @@ tags:
 featured: false
 
 links:
-- name:
-  url:
 url_pdf: https://cogsci.mindmodeling.org/2017/papers/0022/paper0022.pdf
 url_code: ''
 url_dataset: ''
