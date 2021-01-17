@@ -1,12 +1,10 @@
 ---
-title: "Touchscreen Typing as Optimal Supervisory Control"
+title: "An Adaptive Model of Gaze-based Selection"
 authors:
-- Jussi Jokinen
+- Xiuli Chen
 - Aditya Acharya
-- Mohammad Uzair
-- Xinhui Jiang
 - Antti Oulasvirta
-
+- Andrew Howes
 date: "2021-04-01T00:00:00Z"
 doi: ""
 
