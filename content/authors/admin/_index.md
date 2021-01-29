@@ -79,4 +79,4 @@ I am a [FCAI](https://fcai.fi/) postdoctoral researcher, working in the field of
 
 I completed my PhD Degree in July 2019 from University of Birmingham, UK. My primary PhD advisor was Prof. Andrew Howes. The title of my dissertation is "Approximate optimal control model for visual search tasks".
 
-My current research interests include reinforcement learning, decision making, supervisory control and intelligent interactive systems.
+My current research interests include reinforcement learning, decision making, supervisory control, robotic vision and intelligent interactive systems.
