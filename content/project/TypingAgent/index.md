@@ -13,7 +13,7 @@ image:
 
 links:
 url_code: "https://github.com/aditya02acharya/TypingAgent"
-url_pdf: ""
+url_pdf: "https://userinterfaces.aalto.fi/touchscreen-typing/resources/touchscreen_typing_as_optimal_adaptation.pdf"
 url_slides: ""
 url_video: "media/typist.mp4"
 
