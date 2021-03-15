@@ -27,10 +27,10 @@ subtitle = ""
   description = "Proficiency in applying analytical and numerical methods to model a broad range of problems."
   
 [[feature]]
-  icon = "calendar-alt"
+  icon = "code"
   icon_pack = "fas"
-  name = "Process Oriented" 
-  description = "Experience working in SCRUM & Agile SDLC. Ability to collaborate on multi-disciplinary projects."
+  name = "Software Engineering" 
+  description = "Experience in developing and deploying ML models as microservice."
 
 # Uncomment to use emoji icons.
 # [[feature]]
