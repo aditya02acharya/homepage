@@ -14,13 +14,13 @@ organizations:
   url: "https://www.aalto.fi/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, decision making and cognitive modelling.
+bio: My research interests include reinforcement learning, decision making and modelling.
 
 interests:
 - Reinforcement Learning
 - Intelligent systems
 - Healthcare
-- Human-Computer Interaction
+- AI Decision Making
 - Photography
 
 education:
