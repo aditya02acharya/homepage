@@ -24,6 +24,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+**MOTIVATION**
+
+How to design a digital twin of a city or provide City as a Service.
+
+**WHY SHOULD I CARE?**
+
 Urban areas are increasingly becoming congested, and existing traffic management systems are ill-equipped to deal with the real-time issues this congestion causes. Cutting-edge interactive data visualisation and machine learning techniques can help to produce a data-driven real-time traffic management system. Such a system could help city planners prepare for the future and manage current conditions, optimising energy consumption and system resilience.
 
 The objective of the project is to transition complex traffic management from static systems into dynamic, optimised systems that cities manage in real-time across many types of mobility.
