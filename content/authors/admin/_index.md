@@ -75,8 +75,8 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a [FCAI](https://fcai.fi/) postdoctoral researcher, working in the field of Human–Computer Interaction (HCI), in the Media Labs Group (led by Prof. Perttu Hämäläinen) and [User Interfaces Group](https://userinterfaces.aalto.fi/) (led by Prof. Antti Oulasvirta) at Aalto University.
+I am a Research Fellow at the [Institute of Applied Health Research](https://www.birmingham.ac.uk/research/applied-health/index.aspx), University of Birmingham. My current area of research is in the applications of AI in Helathcare. 
 
-I completed my PhD Degree in July 2019 from University of Birmingham, UK. My primary PhD advisor was Prof. Andrew Howes. The title of my dissertation is "Approximate optimal control model for visual search tasks".
+Previously, I was a [FCAI](https://fcai.fi/) postdoctoral researcher, working in the field of Human–Computer Interaction (HCI), in the Media Labs Group (led by Prof. Perttu Hämäläinen) and [User Interfaces Group](https://userinterfaces.aalto.fi/) (led by Prof. Antti Oulasvirta) at Aalto University.
 
-My current research interests include reinforcement learning, decision making, supervisory control, robotic vision and intelligent interactive systems.
+My current research interests include healthcare, reinforcement learning, decision making, and intelligent interactive systems.
