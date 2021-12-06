@@ -10,8 +10,8 @@ role: Postdoc in Applied Health Research
 
 # Organizations/Affiliations
 organizations:
-- name: Aalto University
-  url: "https://www.aalto.fi/en"
+- name: University of Birmingham
+  url: "https://www.birmingham.ac.uk/index.aspx"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reinforcement learning, decision making and modelling.
