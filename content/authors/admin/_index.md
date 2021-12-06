@@ -75,7 +75,7 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a Research Fellow at the [Institute of Applied Health Research](https://www.birmingham.ac.uk/research/applied-health/index.aspx), University of Birmingham. My current area of research is in the applications of AI in Helathcare. 
+I am a Research Fellow at the [Institute of Applied Health Research](https://www.birmingham.ac.uk/research/applied-health/index.aspx), University of Birmingham. My current area of research is in the applications of AI in Healthcare. 
 
 Previously, I was a [FCAI](https://fcai.fi/) postdoctoral researcher, working in the field of Human–Computer Interaction (HCI), in the Media Labs Group (led by Prof. Perttu Hämäläinen) and [User Interfaces Group](https://userinterfaces.aalto.fi/) (led by Prof. Antti Oulasvirta) at Aalto University.
 
