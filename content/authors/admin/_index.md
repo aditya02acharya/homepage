@@ -6,7 +6,7 @@ title: Aditya Acharya
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher in Human-Computer Interaction
+role: Postdoc in Applied Health Research
 
 # Organizations/Affiliations
 organizations:
