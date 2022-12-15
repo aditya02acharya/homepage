@@ -5,7 +5,7 @@ tags:
 date:
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://userinterfaces.aalto.fi/touchscreen-typing/"
 
 image:
   caption:
