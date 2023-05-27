@@ -87,5 +87,5 @@ Artifacts generated during the design steps:
 
 **TESTING**
 
-The Final protoype were tested against targeted users with a background in transport modelling, academia and independent transport consultants.
+The Final protoype was tested against targeted users with a background in transport modelling, academia and independent transport consultants.
 - A Qualitative interview was done with users who tried out the tool and feedback was gathered for further improvements.
