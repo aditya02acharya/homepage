@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-All Content Copyright © Aditya Acharya 2021.
+All Content Copyright © Aditya Acharya 2023.
