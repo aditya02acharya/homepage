@@ -1,6 +1,6 @@
 ---
 title: Touchscreen Typing As Optimal Supervisory Control
-summary: This project presents a computational model of how people type on touch-screen keyboards. We explaore the role of visual attention being shared between the keyboard and the text area. 
+summary: This project presents a computational model to improve touchscreen keyboard usability and design intelligent text entry solutions. We explore the interaction between hand-eye coordination and its effect on typing. 
 tags:
 date:
 
