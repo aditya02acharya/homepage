@@ -56,12 +56,12 @@ A 5-week field study to understand the analysis questions that transport operato
 
 **OUTCOME: QUESTIONS OF INTEREST**
 
-![Questions](https://github.com/aditya02acharya/homepage/blob/master/static/media/questions.png)
+![Questions](questions.png "questions")
 
 **DASHBOARD: INDUSTRY ANALYSIS**
 
 Exploration and deep dive was conducted for data dashboard tools used in the same industry sector.
-![Icons](https://github.com/aditya02acharya/homepage/blob/master/static/media/icons.png)
+![Icons](icons.png "icons")
 
 **DASHBOARD: INTERACTIONS IDENTIFIED**
 
@@ -79,11 +79,11 @@ Exploration and deep dive was conducted for data dashboard tools used in the sam
 **DESIGN & WIREFRAMES**
 
 Artifacts generated during the design steps:
-![Wireframes](https://github.com/aditya02acharya/homepage/blob/master/static/media/wireframe.png)
+![Wireframes](wireframe.png "wireframes")
 
 **PROTOTYPE**
 
-![Prototype](https://github.com/aditya02acharya/homepage/blob/master/static/media/prototype.png)
+![Prototype](prototype.png "prototype")
 
 **TESTING**
 
