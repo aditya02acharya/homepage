@@ -6,7 +6,7 @@ title: Aditya Acharya
 superuser: true
 
 # Role/position
-role: Postdoc in Applied Health Research
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
