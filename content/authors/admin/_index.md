@@ -14,7 +14,7 @@ organizations:
   url: "https://www.birmingham.ac.uk/index.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, decision making and modelling.
+bio: My research interests include reinforcement learning, decision making and autonomous systems.
 
 interests:
 - Reinforcement Learning
@@ -75,7 +75,7 @@ highlight_name: false
 # - Visitors
 ---
 
-I am a Research Fellow at the [Institute of Applied Health Research](https://www.birmingham.ac.uk/research/applied-health/index.aspx), University of Birmingham. My current area of research is in the applications of AI in clinical decision making. 
+I am a Research Fellow at the University of Birmingham. My current area of research is multi-agent reinforcement learning and human-machine teaming, and I collaborate with the Alan Turing Institute (ATI) and Army Research Labs (ARL).
 
 Previously, I was a [FCAI](https://fcai.fi/) postdoctoral researcher, working in the field of Human–Computer Interaction (HCI), in the Media Labs Group (led by Prof. Perttu Hämäläinen) and [User Interfaces Group](https://userinterfaces.aalto.fi/) (led by Prof. Antti Oulasvirta) at Aalto University.
 
